@@ -1,6 +1,6 @@
 Name     : jdk-atinject
 Version  : 1
-Release  : 3
+Release  : 4
 URL      : https://github.com/javax-inject/javax-inject/archive/1.tar.gz
 Source0  : https://github.com/javax-inject/javax-inject/archive/1.tar.gz
 Source1  : http://repo1.maven.org/maven2/javax/inject/javax.inject-tck/1/javax.inject-tck-1.pom
